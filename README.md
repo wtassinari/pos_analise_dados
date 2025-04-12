@@ -46,7 +46,9 @@ Abaixo, as disciplinas organizadas por período e área temática:
 
 ## 🔧 Tecnologias Utilizadas
 
-- **R** (e pacotes como `ggplot2`, `dplyr`, `sf`, `spdep`, `leaflet`)
+- **R**
+- **Python**
+- **RMarkdown**
 - **Quarto** para produção de relatórios e slides interativos
 - **Plataformas EaD** (AVA Moodle)
 
